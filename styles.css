@@ -1,1 +1,9 @@
-/*  your css code here. If applicable */
+
+.navbar {
+  background-color: #e8f3fd;
+}
+
+
+.btn-success {
+  margin-left: 5px;
+}
